@@ -106,7 +106,7 @@ java -jar target/chatbot-0.0.1-SNAPSHOT.jar
 
 ### Demo frontend (static)
 
-Open `LoginSignup.html`, create an account, login, and start a chat.
+Open `http://localhost:8080/LoginSignup.html`, create an account, login, and start a chat.
 
 ---
 
