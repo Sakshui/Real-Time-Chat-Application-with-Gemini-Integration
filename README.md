@@ -18,7 +18,7 @@ A real-time chat application built with **Spring Boot** that integrates **Gemini
 ## 🛠 Tech Stack
 
 * Java 17+ (project configured with Maven wrapper)
-* Spring Boot (Web, WebSocket, Security)
+* Spring Boot (Web, WebSocket, Security, Data JPA)
 * Gemini API for AI responses
 * JWT for authentication
 
